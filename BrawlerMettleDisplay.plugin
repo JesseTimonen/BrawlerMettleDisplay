@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+<Plugin> 
+    <Information>
+    <Name>BrawlerMettleDisplay</Name>
+        <Author>Henna</Author>
+        <Version>1.1.1</Version>
+        <Image>BrawlerMettleDisplay/Images/icon.tga</Image>
+<Description>
+DESCRIPTION
+¯¯¯¯¯¯¯¯¯¯¯
+This plugin displays brawler's mettle in a custom UI element.
+</Description>
+    </Information>
+    <Package>BrawlerMettleDisplay.Compiler</Package>
+    <Configuration Apartment = "BrawlerMettleDisplay" />
+</Plugin>
